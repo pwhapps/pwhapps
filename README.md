@@ -10,6 +10,11 @@
     - Strive to write useful, clean, and efficient code 💻
     </details>
     
+<br>Current languages</br>
+ - Python
+ - HTML
+ - CSS
+
 <br>Upcoming Projects:</br>
  - Contact/Address book with SQLite database
  - File manager
