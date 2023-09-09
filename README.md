@@ -5,18 +5,15 @@
 <br><details> 
     <summary>More facts about me 😄 </summary>
     <br>
-    - Interested in space and aeronautics 🚀 <br>
-    - I enjoy reading, to develop my education and understanding 📚 <br>
-    - Strive to write useful, clean, and efficient code 💻
+    - Interested in Information Security <br>
+    - I work on my car in my own time <br>
+    - Im a jack of all trades 
     </details>
     
 <br>Current languages</br>
  - Python
- - HTML
- - CSS
 
 <br>Upcoming Projects:</br>
- - Contact/Address book with SQLite database
  - File manager
  - Alarm clock
  - Expense tracker
