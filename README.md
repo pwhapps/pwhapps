@@ -5,8 +5,8 @@
 <br><details> 
     <summary>More facts about me 😄 </summary>
     <br>
-    - Interested in Information Security <br>
-    - I work on my car in my own time <br>
+    - Interested in Cyber Security <br>
+    - I work on my car in my free time <br>
     - Im a jack of all trades 
     </details>
     
